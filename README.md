@@ -14,13 +14,13 @@ Showcasing my progress and activity on GitHub. These cards are dynamic and updat
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.demolab.com/?user=Ram-1922&theme=dark&hide_border=true" alt="Ram's GitHub Streak" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=Ram-1922&theme=synthwave&hide_border=true" alt="Ram's GitHub Streak" />
 </p>
 
 🚀 My Projects
 Here are a few projects I'm proud of. Check them out on my profile for more details!
 
-<a href="https://github.com/Ram-1922/web-development/tree/main/GCP%20helper">GCP Helper</a>
+<a href="https://github.com/Ram-1922/web-development/tree/main/GCP%20helper">GCP Helper</a><br>
 A web app designed to simplify grocery shopping. I built this to streamline the process of creating a shopping list, tracking items, and calculating the total cost in real-time.
 
 Project Highlights:
