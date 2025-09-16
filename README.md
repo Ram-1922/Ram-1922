@@ -14,7 +14,7 @@ Showcasing my progress and activity on GitHub. These cards are dynamic and updat
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.demolab.com/?user=Ram-1922&theme=radical&hide_border=true" alt="Ram's GitHub Streak" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=Ram-1922&theme=dark&hide_border=true" alt="Ram's GitHub Streak" />
 </p>
 
 🚀 My Projects
