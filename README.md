@@ -10,7 +10,7 @@ I'm currently focused on JavaScript, building a strong foundation in modern web 
 Showcasing my progress and activity on GitHub. These cards are dynamic and update automatically.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ram-1922&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ram's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ram-1922&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ram's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Showcasing my progress and activity on GitHub. These cards are dynamic and updat
 🚀 My Projects
 Here are a few projects I'm proud of. Check them out on my profile for more details!
 
-GCP Helper
+<a href="https://github.com/Ram-1922/web-development/tree/main/GCP%20helper">GCP Helper</a>
 A web app designed to simplify grocery shopping. I built this to streamline the process of creating a shopping list, tracking items, and calculating the total cost in real-time.
 
 Project Highlights:
