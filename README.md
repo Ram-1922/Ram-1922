@@ -22,9 +22,8 @@ I’m always excited to learn, solve problems, and take on new challenges that p
 
 <div align="center">
 
-![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ram-1922&show_icons=true&theme=radical&hide_border=true)  
-![Ram's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ram-1922&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-1922&layout=compact&theme=radical&hide_border=true)  
+![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ram-1922&show_icons=true&theme=dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-1922&layout=compact&theme=dark&hide_border=true)  
 
 </div>  
 
